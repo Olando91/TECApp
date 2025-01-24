@@ -10,3 +10,9 @@ class Person(ABC):
     
     def add_course(self, course_id: int):
         self.courses.append(course_id)
+
+    def remove_course(self, course_id: int):
+        del self.courses[course_id]
+    
+    def show_full_name(self) -> str:
+        return f"{self.first_name} {self.last_name}"

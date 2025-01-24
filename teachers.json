@@ -1,0 +1,42 @@
+{
+    "teachers": [
+        {
+            "first_name": "Niels",
+            "last_name": "Olesen",
+            "courses": [
+                2,
+                1
+            ]
+        },
+        {
+            "first_name": "Palle",
+            "last_name": "Westerman",
+            "courses": [
+                3
+            ]
+        }
+    ],
+    "students": [
+        {
+            "first_name": "Lasse",
+            "last_name": "Øland",
+            "courses": [
+                3
+            ]
+        },
+        {
+            "first_name": "Line",
+            "last_name": "Øland",
+            "courses": [
+                2
+            ]
+        },
+        {
+            "first_name": "Anders",
+            "last_name": "And",
+            "courses": [
+                1
+            ]
+        }
+    ]
+}
